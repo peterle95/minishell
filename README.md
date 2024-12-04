@@ -22,7 +22,7 @@
 To install `minishell`, clone the repository and compile the project using the provided Makefile:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/peterle95/minishell.git
 cd minishell
 make
 ```
