@@ -1,3 +1,5 @@
+#Minishell
+
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="Minishell 42 project badge"/>
 </p>
@@ -36,4 +38,4 @@ After compiling, you can run the shell by executing the following command in you
 You can then start entering commands as you would in a typical Unix shell.
 
 ---
-Made by pmolzer and dmusulas[dmusulas](https://github.com/Dmusulas): pmolzer@student.42berlin.de | LinkedIn: [pmolzer](https://www.linkedin.com/in/peter-moelzer//) 
+Made by pmolzer and [dmusulas](https://github.com/Dmusulas): pmolzer@student.42berlin.de | LinkedIn: [pmolzer](https://www.linkedin.com/in/peter-moelzer//) 
